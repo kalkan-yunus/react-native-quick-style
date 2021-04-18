@@ -6,7 +6,7 @@ npm install --save react-native-quick-style
 
 Combines most prefered styles and enables you to select from list
 
-![image](/example.png)
+![image](https://github.com/kalkan-yunus/react-native-quick-style/blob/main/example.png?raw=true)
 
 
 # example
