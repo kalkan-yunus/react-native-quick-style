@@ -1,0 +1,23 @@
+{
+    "font-13": {
+        "fontSize": 13
+    },
+    "font-14": {
+        "fontSize": 14
+    },
+    "font-15": {
+        "fontSize": 15
+    },
+    "font-18": {
+        "fontSize": 18
+    },
+    "font-21": {
+        "fontSize": 21
+    },
+    "bold": {
+        "fontWeight": "bold"
+    },
+    "center": {
+        "textAlign": "center"
+    }
+}
